@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Tawren
-- 🌱 I’m currently learning discord.js
 
 <!---
 Tawren/Tawren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
